@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1048990861680",
+    "project_id": "auto-sales-66a69",
+    "storage_bucket": "auto-sales-66a69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1048990861680:android:a7c66e405c0d5dc7f127b5",
+        "android_client_info": {
+          "package_name": "com.gbooking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnLkZCtGLPlWtAvLYCPMUY_1DsTFN3mYc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
